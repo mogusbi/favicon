@@ -20,7 +20,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "lint": "eslint . -c linting/.eslintrc"
+    "lint": "eslint . -c .eslintrc"
   },
   "dependencies": {
     "jimp": "^0.2.27",
